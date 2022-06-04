@@ -58,7 +58,7 @@ curl 127.0.0.1:9002/incentivecash+uid: XXXXXXXXXXX
 
 # Hesaplar:
 
-[Twitter](https://twitter.com/Ruesandora0)
+[Twitter](https://twitter.com/mehmetkoltigin)
 
 [Forum](https://forum.rues.info/index.php)
 
