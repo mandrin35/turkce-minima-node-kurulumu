@@ -39,7 +39,7 @@ wget -O minima_setup.sh https://raw.githubusercontent.com/minima-global/Minima/m
 #  Arkada kurulum devam ederken vereceğim linke girip üyelik oluşturuyoruz daha sonrasında hesabımıza giriş yapıyoruz:
 Girdikten sonra en üstte bulunan Incentive IDyi kopyalıyoruz hazır dursun; 
 
-[Link](https://incentive.minima.global/account/register?inviteCode=GEEASBDR)
+[Link](https://incentive.minima.global/account/register?inviteCode=LBAMICEB)
 
 # Kırmızı ile işaretlediğim yerden önceki komutları gördüğünüzde kurulumun bittiğini anlıyoruz ve CTRL + C tuşlarına basıyoruz.
 
