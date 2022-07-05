@@ -39,7 +39,7 @@ wget -O minima_setup.sh https://raw.githubusercontent.com/minima-global/Minima/m
 #  Arkada kurulum devam ederken vereceğim linke girip üyelik oluşturuyoruz daha sonrasında hesabımıza giriş yapıyoruz:
 Girdikten sonra en üstte bulunan Incentive IDyi kopyalıyoruz hazır dursun; 
 
-[Link](https://incentive.minima.global/account/register?inviteCode=LBAMICEB)
+[Link](https://incentive.minima.global/account/register?inviteCode=BWDVMMEJ)
 
 # Kırmızı ile işaretlediğim yerden önceki komutları gördüğünüzde kurulumun bittiğini anlıyoruz ve CTRL + C tuşlarına basıyoruz.
 
@@ -58,14 +58,5 @@ curl 127.0.0.1:9002/incentivecash+uid: XXXXXXXXXXX
 
 # Hesaplar:
 
-[Twitter](https://twitter.com/mehmetkoltigin)
+[Twitter](https://twitter.com/mandrin35)
 
-[Forum](https://forum.rues.info/index.php)
-
-[Telegram Announcement](https://t.me/RuesAnnouncement)
-
-[Telegram Chat](https://t.me/RuesChat)
-
-[Telegram Node](https://t.me/RuesNode)
-
-[Telegram Node Chat](https://t.me/RuesNodeChat)
